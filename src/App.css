@@ -64,7 +64,7 @@
 
 .tier1:hover, .tier2:hover, .tier3:hover, .parent:hover, .child:hover {
   cursor: pointer;
-  animation: soft-glow 1s forwards ease-in-out infinite;
+  /* animation: soft-glow 1s forwards ease-in-out infinite; */
 }
 
 .flash {
